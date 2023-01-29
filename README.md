@@ -79,6 +79,7 @@ Calibration: We calibrated the robot by telling it to rapidly move left and righ
 
 <details>
 <summary><h2>Components Used ⚙</h2></summary>
+</br>
 
 **Non-electronic:**
 * 1 robot chassis
@@ -100,7 +101,6 @@ Calibration: We calibrated the robot by telling it to rapidly move left and righ
 
 <details>
 <summary><h2>Showcase 🏎</h2></summary>
-</br>
 
 <details>
 <summary><h4>Racetrack Picture:</h4></summary>
